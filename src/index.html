@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Creative branding</title>
+  <link rel="stylesheet" href="<%=htmlWebpackPlugin.files.css %>">
+  <link rel="icon" href="<%=require('./images/favicon.ico')%>">
+  <script defer src="<%=htmlWebpackPlugin.files.js %>"></script>
+</head>
+<body>
+
+  <div class="page">
+
+    <header class="header">
+
+      <img src="images/logo.png" alt="" class="header__logo">
+
+      <h1 class="title title_size_l">Creative branding</h1>
+      <p class="header__caption"></p>
+      <a href="" class="button button_white"></a>
+      <span class="header__arrow"></span>
+      
+    </header>
+
+    <nav class="menu">
+
+      <span class="menu__logo"></span>
+
+      <ul class="menu__list">
+        <li class="menu__item><a href="#" class="menu__link>Home</a></li>
+        <li class="menu__item><a href="#about" class="menu__link>About us</a></li>
+        <li class="menu__item><a href="#portfolio" class="menu__link>Portfolio</a></li>
+        <li class="menu__item><a href="#contact" class="menu__link>Contact</a></li>
+      </ul>
+        
+    </nav>
+
+    <section class="about" id="about">
+      <h2 class="title title_size_l"></h2>
+      <p class="about__caption"></p>
+      <div class="about__card">
+        <img src="" alt="" class="about__card-image">
+        <p class="about__card-title"></p>
+        <p class="about__card-description"></p>
+      </div>
+
+    </section>
+
+    <section class="portfolio" id="portfolio">
+      <h2 class="title title_size_l"></h2>
+      <div class="portfolio__images-block">
+        <img src="" alt="" class="portfolio__image">
+      </div>
+      <a href="" class="button button_black"></a>
+    </section>
+
+    <section class="partners" id="partners">
+      <h2 class="title title_size_m"></h2>
+      <div class="partners__logos-block">
+        <img src="" alt="" class="partners__logo">
+      </div>
+    </section>
+
+    <section class="contact" id="contact">
+      <h2 class="title title_size_l"></h2>
+      <form action="" class="contact__form">
+        <input type="text" class="contact__input-name">
+        <input type="email" class="contact__input-email">
+        <input type="text" class="contact__input-message">
+        <button class="contact__form-button"></button>
+      </form>
+
+      <div class="contact__info">
+        <p class="contact__text"></p>
+        <p class="contact__text contact__text_bold"></p>
+        <p class="contact__text"><a href="" class="contact__link contact__text_bold"></a></p>
+        <div class="contact__social-icons-blocks">
+          <img src="" alt="" class="contact__social-icon">
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <img src="images/logo.png" alt="" class="footer__logo">
+      <ul class="footer__list">
+        <li class="footer__item><a href="#" class="footer__link>Home</a></li>
+        <li class="footer__item><a href="#about" class="footer__link>About us</a></li>
+        <li class="footer__item><a href="#portfolio" class="footer__link>Portfolio</a></li>
+        <li class="footer__item><a href="#contact" class="footer__link>Contact</a></li>
+        <li class="footer__item><a href="#contact" class="footer__link>Contact</a></li>
+        <li class="footer__item><a href="#contact" class="footer__link>Contact</a></li>
+        <li class="footer__item><a href="#contact" class="footer__link>Contact</a></li>
+      </ul>
+      <p class="footer__copyright"></p>
+    </footer>
+
+  </div>
+
+</body>
+</html>
