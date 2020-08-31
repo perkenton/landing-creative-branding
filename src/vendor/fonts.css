@@ -1,15 +1,47 @@
 @font-face {
-  font-family: 'Roboto';
-  font-style:  medium;
-  font-weight: 500;
-/*  src: url("./fonts/Roboto-Medium.woff2") format("woff2"),
-       url("./fonts/roboto-medium.woff") format("woff");*/
+  font-family: 'SourceSansPro';
+  font-style:  normal;
+  font-weight: 300;
+  src: url("./fonts/SourceSansPro-Light.otf.woff2") format("woff2"),
+  url("./fonts/SourceSansPro-Light.otf.woff") format("woff");
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'SourceSansPro';
   font-style:  normal;
   font-weight: 400;
-/*  src: url("./fonts/Roboto-Regular.woff2") format("woff2"),
-       url("./fonts/roboto-regular.woff") format("woff");*/
+  src: url("./fonts/SourceSansPro-Regular.otf.woff2") format("woff2"),
+       url("./fonts/SourceSansPro-Regular.otf.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'SourceSansPro';
+  font-style:  normal;
+  font-weight: 700;
+  src: url("./fonts/SourceSansPro-Bold.otf.woff2") format("woff2"),
+       url("./fonts/SourceSansPro-Bold.otf.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style:  normal;
+  font-weight: 300;
+  src: url("./fonts/Lato-Light.woff2") format("woff2"),
+  url("./fonts/Lato-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style:  normal;
+  font-weight: 400;
+  src: url("./fonts/Lato-Regular.woff2") format("woff2"),
+  url("./fonts/Lato-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style:  normal;
+  font-weight: 700;
+  src: url("./fonts/Lato-Bold.woff2") format("woff2"),
+  url("./fonts/Lato-Bold.woff") format("woff");
 }

@@ -10,4 +10,4 @@
 @import url(../blocks/title/title.css);
 
 @import url(../vendor/normalize.css);
-/*@import url(../vendor/fonts.css);*/
+@import url(../vendor/fonts.css);

@@ -1,1 +1,17 @@
-.header__caption {}
+.header__caption {
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  color: #fff;
+  margin-top: 105px;
+  margin-bottom: 100px;
+  z-index: 1;
+  letter-spacing: 1px
+}
+
+@media (min-width: 1920px) {
+  .header__caption {
+    margin-bottom: 162px;
+  }
+}

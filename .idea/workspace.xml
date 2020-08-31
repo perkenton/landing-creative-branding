@@ -2,22 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c60b35e8-4a0e-4047-85a3-4bcb5bf679ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/src.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/02/6e985626c638639421482ba3baf973.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/02/6e985626c638639421482ba3baf973.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/25/7c4c6436426e6f1b9cfcd8d52f73a4.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/25/7c4c6436426e6f1b9cfcd8d52f73a4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/32/41c153d896c2bc76480591407abfd7.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/32/41c153d896c2bc76480591407abfd7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/46/b8e81babc1a845cb3b2996ff6fc1c4.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/46/b8e81babc1a845cb3b2996ff6fc1c4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/4d/0ebb2d0305c129a83e272efe6eff09.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/4d/0ebb2d0305c129a83e272efe6eff09.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/6c/187a87e01d28ac939bf9668f6ef14b.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/6c/187a87e01d28ac939bf9668f6ef14b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/6d/429ef917371c95e6fee13b5712197e.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/6d/429ef917371c95e6fee13b5712197e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/a7/fdef8fd0475ae8af1f8b139ad49072.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/a7/fdef8fd0475ae8af1f8b139ad49072.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/b0/2de954fd39ed36ad79e597ea21a906.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/b0/2de954fd39ed36ad79e597ea21a906.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/d0/38e8de26fb0fa7865c90f73c9ed4d7.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/d0/38e8de26fb0fa7865c90f73c9ed4d7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/button/_white/button_white.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/button/_white/button_white.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/button/button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/button/button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/header/__arrow/header__arrow.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/__arrow/header__arrow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/header/__caption/header__caption.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/__caption/header__caption.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/header/__logo/header__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/__logo/header__logo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/page/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/page/page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blocks/title/_size/title_size_l.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/title/_size/title_size_l.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blocks/title/title.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/title/title.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vendor/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/vendor/fonts.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +57,21 @@
       <option name="presentableId" value="Default" />
       <updated>1598742321244</updated>
       <workItem from="1598742328976" duration="103000" />
-      <workItem from="1598743606992" duration="2853000" />
+      <workItem from="1598743606992" duration="14906000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="81" key="#CSS" timestamp="1598807119908">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="458" y="81" key="#CSS/0.0.1366.740@0.0.1366.740" timestamp="1598807119908" />
+    <state x="346" y="61" width="672" height="678" key="search.everywhere.popup" timestamp="1598829957976">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="346" y="61" width="672" height="678" key="search.everywhere.popup/0.0.1366.740@0.0.1366.740" timestamp="1598829957976" />
   </component>
 </project>
