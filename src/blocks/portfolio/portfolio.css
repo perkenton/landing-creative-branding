@@ -1,1 +1,8 @@
-.portfolio {}
+@import url(./__image/portfolio__image.css);
+@import url(./__images-block/portfolio__images-block.css);
+
+.portfolio {
+  background-color: #f3f3f3;
+  padding-top: 186px;
+  padding-bottom: 100px;
+}

@@ -1,1 +1,18 @@
-.button_black {}
+.button_black {
+  color: #000;
+  border: 1px solid #000;
+  display: inline-block;
+  margin-left: 50%;
+  transform: translate(-50%, 0);
+  transition: .2s linear;
+}
+
+.button_black:hover {
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, .4);
+  background-color: rgba(255, 255, 255, .2);
+}
+
+.button_black:active {
+  box-shadow: 0px 0px 2px #000;
+  background-color: rgba(255, 255, 255, .3);
+}

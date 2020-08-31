@@ -1,1 +1,10 @@
-.portfolio__images-block {}
+.portfolio__images-block {
+  display: flex;
+  flex-flow: column;
+  flex-wrap: wrap;
+  align-content: center;
+  max-height: 1015px;
+  padding-top: 143px;
+  padding-bottom: 140px;
+  margin-left: 22px;
+}

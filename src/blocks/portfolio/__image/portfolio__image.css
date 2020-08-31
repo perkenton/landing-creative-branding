@@ -1,1 +1,5 @@
-.portfolio__image {}
+.portfolio__image {
+  max-width: 285px;
+  margin-right: 22px;
+  margin-bottom: 22px;
+}

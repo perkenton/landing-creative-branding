@@ -1,5 +1,6 @@
 .button_white {
   color: #fff;
+  border: 1px solid #fff;
   z-index: 1;
   transition: .2s linear;
 }
