@@ -1,13 +1,10 @@
-.about__caption {
-  max-width: 250px;
+.about__card-description {
   font-family: 'Lato', Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 14px;
   text-align: center;
+  line-height: 24px;
   color: #a4a4a4;
-  margin-top: 74px;
-  margin-bottom: 78px;
-  margin-left: auto;
-  margin-right: auto;
+
 }

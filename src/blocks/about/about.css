@@ -1,1 +1,11 @@
-.about {}
+@import url(./__caption/about__caption.css);
+@import url(./__card/about__card.css);
+@import url(./__card-description/about__card-description.css);
+@import url(./__card-image/about__card-image.css);
+@import url(./__card-title/about__card-title.css);
+@import url(./__cards-list/about__cards-list.css);
+
+.about {
+  padding-top: 130px;
+  padding-bottom: 121px;
+}

@@ -1,1 +1,8 @@
-.about__card {}
+.about__card {
+  max-width: 285px;
+  display: inline-block;
+  margin-right: 22px;
+  margin-bottom: 22px;
+  box-sizing: border-box;
+  border: 1px solid #000;
+}

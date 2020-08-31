@@ -1,0 +1,13 @@
+.title_size_l_black {
+  color: #000;
+}
+
+.title_size_l_black:after {
+  content: '';
+  position: absolute;
+  top: 74px;
+  left: 50%;
+  transform: translate(-50%, 0);
+  border-bottom: 2px solid #000;
+  width: 80px;
+}

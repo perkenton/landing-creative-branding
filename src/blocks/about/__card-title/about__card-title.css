@@ -1,1 +1,11 @@
-.about__card-title {}
+.about__card-title {
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  letter-spacing: 2px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000;
+
+}

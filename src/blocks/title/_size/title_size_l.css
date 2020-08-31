@@ -2,19 +2,8 @@
   font-weight: 400;
   font-size: 34px;
   letter-spacing: 5px;
-  color: #fff;
   text-transform: uppercase;
   text-align: center;
   position: relative;
   margin: 0;
-}
-
-.title_size_l:after {
-  content: '';
-  position: absolute;
-  top: 87px;
-  left: 50%;
-  transform: translate(-50%, 0);
-  border-bottom: 2px solid #fff;
-  width: 105px;
 }

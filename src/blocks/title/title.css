@@ -1,4 +1,6 @@
 @import url(./_size/title_size_l.css);
+@import url(./_size/_black/title_size_l_black.css);
+@import url(./_size/_white/title_size_l_white.css);
 @import url(./_size/title_size_m.css);
 
 .title {
