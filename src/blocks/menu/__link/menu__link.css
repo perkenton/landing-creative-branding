@@ -6,3 +6,7 @@
   text-transform: uppercase;
   color: #3c3c3c;
 }
+
+.menu__link:hover {
+  color: #ada074;
+}

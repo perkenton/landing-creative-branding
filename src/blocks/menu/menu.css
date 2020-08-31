@@ -1,6 +1,6 @@
 @import url(./__item/menu__item.css);
 @import url(./__link/menu__link.css);
-@import url(./__link/_is-active/menu__link_is-active);
+@import url(./__link/_is-active/menu__link_is-active.css);
 @import url(./__list/menu__list.css);
 @import url(./__logo/menu__logo.css);
 
