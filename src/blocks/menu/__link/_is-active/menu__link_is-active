@@ -1,0 +1,4 @@
+.menu__link_is-active {
+  font-weight: 700;
+  color: #ada074;
+}

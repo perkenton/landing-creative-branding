@@ -1,1 +1,6 @@
-.menu__list{}
+.menu__list{
+  list-style: none;
+  display: inline-block;
+  margin-left: 40px;
+  padding: 0;
+}

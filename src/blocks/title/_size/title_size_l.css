@@ -12,7 +12,7 @@
 .title_size_l:after {
   content: '';
   position: absolute;
-  top: 87px;
+  top: 87 px;
   left: 50%;
   transform: translate(-50%, 0);
   border-bottom: 2px solid #fff;
