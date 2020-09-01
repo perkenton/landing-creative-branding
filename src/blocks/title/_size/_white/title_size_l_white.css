@@ -10,4 +10,5 @@
   transform: translate(-50%, 0);
   border-bottom: 2px solid #fff;
   width: 105px;
+  z-index: 1;
 }

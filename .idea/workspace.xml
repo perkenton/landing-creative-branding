@@ -12,20 +12,22 @@
   <component name="ChangeListManager">
     <list default="true" id="c60b35e8-4a0e-4047-85a3-4bcb5bf679ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.cache/02/6e985626c638639421482ba3baf973.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/02/6e985626c638639421482ba3baf973.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/12/77e7baa0e6d86c451c236c3923f57e.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/12/77e7baa0e6d86c451c236c3923f57e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/2c/418908841a5f949e6c8f8d25d77ad2.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/2c/418908841a5f949e6c8f8d25d77ad2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/33/37b2c5ae559310c95c6af4e5a51487.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/33/37b2c5ae559310c95c6af4e5a51487.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/4d/0ebb2d0305c129a83e272efe6eff09.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/4d/0ebb2d0305c129a83e272efe6eff09.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/56/16e2bc0deb1e4d77a5c35a1132dcc9.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/56/16e2bc0deb1e4d77a5c35a1132dcc9.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/6c/187a87e01d28ac939bf9668f6ef14b.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/6c/187a87e01d28ac939bf9668f6ef14b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/f6/d4e040f19c23e61c349f2497f6c562.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/f6/d4e040f19c23e61c349f2497f6c562.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/b0/2de954fd39ed36ad79e597ea21a906.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/b0/2de954fd39ed36ad79e597ea21a906.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/d2/9c860cb6751b7566810421eb83c307.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/d2/9c860cb6751b7566810421eb83c307.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/about/__card/about__card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/about/__card/about__card.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/button/_black/button_black.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/button/_black/button_black.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/button/_white/button_white.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/button/_white/button_white.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/button/button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/button/button.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/portfolio/__image/portfolio__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/portfolio/__image/portfolio__image.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/portfolio/__images-block/portfolio__images-block.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/portfolio/__images-block/portfolio__images-block.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/portfolio/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/portfolio/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/partners/__logo/partners__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/partners/__logo/partners__logo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/partners/__logos-block/partners__logos-block.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/partners/__logos-block/partners__logos-block.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/partners/partners.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/partners/partners.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/title/_size/_white/title_size_l_white.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/title/_size/_white/title_size_l_white.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/title/_size/title_size_m.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/title/_size/title_size_m.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/title/title.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/title/title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/logos/alex1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/logos/alex2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/logos/archiq.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/logos/archiq.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/logos/thomsoon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/logos/thomsoon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598742321244</updated>
       <workItem from="1598742328976" duration="103000" />
-      <workItem from="1598743606992" duration="27202000" />
+      <workItem from="1598743606992" duration="29247000" />
     </task>
     <servers />
   </component>

@@ -1,1 +1,9 @@
-.partners__logos-block {}
+.partners__logos-block {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: center;
+  align-items: center;
+  padding-top: 94px;
+}

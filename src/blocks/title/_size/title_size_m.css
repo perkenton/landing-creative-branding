@@ -1,3 +1,8 @@
 .title_size_m {
-
+  font-weight: 300;
+  font-size: 30px;
+  letter-spacing: 5px;
+  text-align: center;
+  color: #fff;
+  z-index: 1;
 }
