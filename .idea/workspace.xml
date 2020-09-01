@@ -12,23 +12,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c60b35e8-4a0e-4047-85a3-4bcb5bf679ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.cache/02/6e985626c638639421482ba3baf973.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/02/6e985626c638639421482ba3baf973.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/08/87796c95c9ef0ce8fb3d0498714f1a.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/08/87796c95c9ef0ce8fb3d0498714f1a.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/21/3b67500c8f3ed8fa5f87a02c92cf91.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/21/3b67500c8f3ed8fa5f87a02c92cf91.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/59/0146e42cbdd0c2d68485a958b75934.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/59/0146e42cbdd0c2d68485a958b75934.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/33/37b2c5ae559310c95c6af4e5a51487.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/33/37b2c5ae559310c95c6af4e5a51487.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/6c/187a87e01d28ac939bf9668f6ef14b.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/6c/187a87e01d28ac939bf9668f6ef14b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/7a/500a021f33ee68e7275b9569036421.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/7a/500a021f33ee68e7275b9569036421.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/fb/7209a513afff4c7ba043cf9f2b363d.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/fb/7209a513afff4c7ba043cf9f2b363d.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/fe/6dea9f32ef94665b29ef8202914524.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/fe/6dea9f32ef94665b29ef8202914524.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__copyright/footer__copyright.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__item/footer__item.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/footer/__item/footer__item.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__link/footer__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/footer/__link/footer__link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__list/footer__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/footer/__list/footer__list.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__logo/footer__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/footer/__logo/footer__logo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/footer/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/social-icons/203-2034317_google-plus-comments-g-plus-icon-png.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/social-icons/509-5092204_png-file-svg-behance.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/social-icons/pngkey.com-facebook-black-png-902878.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/button/_black/button_black.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/button/_black/button_black.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +59,7 @@
       <workItem from="1598742328976" duration="103000" />
       <workItem from="1598743606992" duration="30123000" />
       <workItem from="1598972678766" duration="6687000" />
-      <workItem from="1598982887291" duration="11477000" />
+      <workItem from="1598982887291" duration="13922000" />
     </task>
     <servers />
   </component>
