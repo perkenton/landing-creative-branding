@@ -1,5 +1,6 @@
 .title_size_l_white {
   color: #fff;
+  z-index: 1;
 }
 
 .title_size_l_white:after {

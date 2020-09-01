@@ -4,5 +4,7 @@
   letter-spacing: 5px;
   text-align: center;
   color: #fff;
+  position: relative;
+  margin: 0;
   z-index: 1;
 }

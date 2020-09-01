@@ -11,24 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c60b35e8-4a0e-4047-85a3-4bcb5bf679ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.cache/02/6e985626c638639421482ba3baf973.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/02/6e985626c638639421482ba3baf973.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/28/fa4da344ed16f3b1512f77714ae395.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/28/fa4da344ed16f3b1512f77714ae395.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/56/16e2bc0deb1e4d77a5c35a1132dcc9.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/56/16e2bc0deb1e4d77a5c35a1132dcc9.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/6c/187a87e01d28ac939bf9668f6ef14b.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/6c/187a87e01d28ac939bf9668f6ef14b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/b0/2de954fd39ed36ad79e597ea21a906.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/b0/2de954fd39ed36ad79e597ea21a906.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/d2/9c860cb6751b7566810421eb83c307.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/d2/9c860cb6751b7566810421eb83c307.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/b6/e3d06def546b0c6c34d5d40f260cca.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/b6/e3d06def546b0c6c34d5d40f260cca.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blocks/partners/__logo/partners__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/partners/__logo/partners__logo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blocks/partners/__logos-block/partners__logos-block.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/partners/__logos-block/partners__logos-block.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/partners/partners.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/partners/partners.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blocks/title/_size/_white/title_size_l_white.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/title/_size/_white/title_size_l_white.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blocks/title/_size/title_size_m.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/title/_size/title_size_m.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/title/title.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/title/title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/logos/alex1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/logos/alex2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/logos/archiq.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/logos/archiq.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/logos/thomsoon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/logos/thomsoon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1598742321244</updated>
       <workItem from="1598742328976" duration="103000" />
-      <workItem from="1598743606992" duration="29247000" />
+      <workItem from="1598743606992" duration="30123000" />
+      <workItem from="1598972678766" duration="307000" />
     </task>
     <servers />
   </component>
@@ -85,6 +77,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="81" key="#CSS" timestamp="1598807119908">
