@@ -1,0 +1,15 @@
+.contact__input {
+  border-top: 1px solid #000;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  background-color: #f8f7f7;
+  box-sizing: border-box;
+  margin-top: 19px;
+  margin-bottom: 76px;
+  padding: 5px;
+}
+
+.contact__input:focus {
+  outline: none;
+}

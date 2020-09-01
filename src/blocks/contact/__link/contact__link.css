@@ -1,1 +1,7 @@
-.contact__link {}
+.contact__link {
+  transition: .2s linear;
+}
+
+.contact__link:hover {
+  color: #ada074;
+}

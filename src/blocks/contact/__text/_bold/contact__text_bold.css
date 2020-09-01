@@ -1,1 +1,5 @@
-.contact__text_bold {}
+.contact__text_bold {
+  font-weight: 700;
+  color: #000;
+  text-decoration: none;
+}

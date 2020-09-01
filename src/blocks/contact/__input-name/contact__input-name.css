@@ -1,1 +1,4 @@
-.contact__input-name {}
+.contact__input-name {
+  width: 160px;
+  height: 36px;
+}

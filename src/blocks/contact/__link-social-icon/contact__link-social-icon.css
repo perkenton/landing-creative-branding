@@ -1,0 +1,10 @@
+.contact__link-social-icon {
+  display: inline-block;
+  text-decoration: none;
+  transition: .2s linear;
+  margin-right: 15px;
+}
+
+.contact__link-social-icon:hover {
+  transform: translateY(-2px);
+}

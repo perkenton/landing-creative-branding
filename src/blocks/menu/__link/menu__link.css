@@ -5,6 +5,7 @@
   text-decoration: none;
   text-transform: uppercase;
   color: #3c3c3c;
+  transition: .2s linear;
 }
 
 .menu__link:hover {

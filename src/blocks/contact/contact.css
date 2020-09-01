@@ -1,1 +1,22 @@
-.contact {}
+@import url(./__form/contact__form.css);
+@import url(./__form-button/contact__form-button.css);
+@import url(./__info/contact__info.css);
+@import url(./__input/contact__input.css);
+@import url(./__input-block/contact__input-block.css);
+@import url(./__input-block/_margin/contact__input-block_margin.css);
+@import url(./__input-caption/contact__input-caption.css);
+@import url(./__input-email/contact__input-email.css);
+@import url(./__input-message/contact__input-message.css);
+@import url(./__input-name/contact__input-name.css);
+@import url(./__link/contact__link.css);
+@import url(./__link-social-icon/contact__link-social-icon.css);
+@import url(./__social-icon/contact__social-icon.css);
+@import url(./__social-icons-blocks/contact__social-icons-blocks.css);
+@import url(./__text/contact__text.css);
+@import url(./__text/_bold/contact__text_bold.css);
+@import url(./__wrapper/contact__wrapper.css);
+
+.contact {
+  padding-top: 183px;
+  padding-bottom: 100px;
+}

@@ -1,1 +1,3 @@
-.contact__info {}
+.contact__info {
+  display: inline-block;
+}

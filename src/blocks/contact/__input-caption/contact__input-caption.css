@@ -1,0 +1,9 @@
+.contact__input-caption {
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  text-align: left;
+  text-transform: uppercase;
+  display: block;
+}

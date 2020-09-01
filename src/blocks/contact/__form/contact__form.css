@@ -1,1 +1,5 @@
-.contact__form {}
+.contact__form {
+  max-width: 385px;
+  margin-right: 80px;
+  display: inline-block;
+}

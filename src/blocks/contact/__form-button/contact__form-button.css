@@ -1,1 +1,26 @@
-.contact__form-button {}
+.contact__form-button {
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  text-align: right;
+  text-transform: uppercase;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  display: block;
+  margin-left: 348px;
+  padding: 0;
+}
+
+.contact__form-button:hover {
+
+}
+
+.contact__form-button:active {
+
+}
+
+.contact__form-button:focus {
+
+}

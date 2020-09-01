@@ -11,15 +11,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c60b35e8-4a0e-4047-85a3-4bcb5bf679ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.cache/28/fa4da344ed16f3b1512f77714ae395.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/28/fa4da344ed16f3b1512f77714ae395.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/56/16e2bc0deb1e4d77a5c35a1132dcc9.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/56/16e2bc0deb1e4d77a5c35a1132dcc9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/contact/__input-block/_margin/contact__input-block_margin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/contact/__input-block/contact__input-block.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/contact/__input-caption/contact__input-caption.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/contact/__input/contact__input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/contact/__link-social-icon/contact__link-social-icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/contact/__wrapper/contact__wrapper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/02/6e985626c638639421482ba3baf973.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/02/6e985626c638639421482ba3baf973.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/6c/187a87e01d28ac939bf9668f6ef14b.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/6c/187a87e01d28ac939bf9668f6ef14b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/b6/e3d06def546b0c6c34d5d40f260cca.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/b6/e3d06def546b0c6c34d5d40f260cca.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/c7/aec44a4c4e33b796d8920af8b0ecb8.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/c7/aec44a4c4e33b796d8920af8b0ecb8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/cd/c85594a2ad6b52e389717625451528.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/cd/c85594a2ad6b52e389717625451528.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/partners/__logo/partners__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/partners/__logo/partners__logo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/partners/__logos-block/partners__logos-block.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/partners/__logos-block/partners__logos-block.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/title/_size/_white/title_size_l_white.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/title/_size/_white/title_size_l_white.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/title/_size/title_size_m.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/title/_size/title_size_m.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/contact/__form-button/contact__form-button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/contact/__form-button/contact__form-button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/contact/__form/contact__form.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/contact/__form/contact__form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/contact/__info/contact__info.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/contact/__info/contact__info.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/contact/__input-email/contact__input-email.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/contact/__input-email/contact__input-email.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/contact/__input-message/contact__input-message.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/contact/__input-message/contact__input-message.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/contact/__input-name/contact__input-name.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/contact/__input-name/contact__input-name.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/contact/__link/contact__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/contact/__link/contact__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/contact/__social-icon/contact__social-icon.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/contact/__social-icon/contact__social-icon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/contact/__social-icons-blocks/contact__social-icons-blocks.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/contact/__social-icons-blocks/contact__social-icons-blocks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/contact/__text/_bold/contact__text_bold.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/contact/__text/_bold/contact__text_bold.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/contact/__text/contact__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/contact/__text/contact__text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/contact/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/contact/contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/menu/__link/menu__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/menu/__link/menu__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +60,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -60,7 +77,8 @@
       <updated>1598742321244</updated>
       <workItem from="1598742328976" duration="103000" />
       <workItem from="1598743606992" duration="30123000" />
-      <workItem from="1598972678766" duration="307000" />
+      <workItem from="1598972678766" duration="6687000" />
+      <workItem from="1598982887291" duration="9093000" />
     </task>
     <servers />
   </component>
