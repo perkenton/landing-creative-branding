@@ -1,1 +1,5 @@
-.footer__item {}
+.footer__item {
+  display: inline-block;
+  margin-left: 6px;
+  margin-right: 6px;
+}

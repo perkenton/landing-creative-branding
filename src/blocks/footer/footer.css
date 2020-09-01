@@ -4,4 +4,12 @@
 @import url(./__list/footer__list.css);
 @import url(./__logo/footer__logo.css);
 
-.footer {}
+.footer {
+  background-color: #3c3c3c;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 60px;
+}

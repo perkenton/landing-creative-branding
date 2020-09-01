@@ -1,1 +1,12 @@
-.footer__link {}
+.footer__link {
+  font-family: 'SourceSansPro', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  text-decoration: none;
+  color: #a4a4a4;
+  transition: .2s linear;
+}
+
+.footer__link:hover {
+  color: #ada074;
+}
