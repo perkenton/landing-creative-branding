@@ -3,6 +3,7 @@
   font-style: normal;
   font-weight: 300;
   font-size: 14px;
+  text-align: center;
   color: #fff;
   margin-top: 105px;
   margin-bottom: 100px;
@@ -13,5 +14,11 @@
 @media (min-width: 1920px) {
   .header__caption {
     margin-bottom: 162px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .header__caption {
+    margin-bottom: 50px;
   }
 }

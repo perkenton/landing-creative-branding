@@ -1,9 +1,27 @@
 .partners__logos-block {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-content: center;
-  align-items: center;
+  max-width: 900px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 110px;
+  margin: auto;
   padding-top: 94px;
+}
+
+@media (max-width: 950px) {
+  .partners__logos-block {
+    grid-gap: 50px;
+  }
+}
+
+@media (max-width: 650px) {
+  .partners__logos-block {
+    grid-gap: 24px;
+  }
+}
+
+@media (max-width: 480px) {
+  .partners__logos-block {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 24px;
+  }
 }

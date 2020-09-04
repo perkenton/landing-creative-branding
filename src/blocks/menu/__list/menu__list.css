@@ -1,6 +1,22 @@
 .menu__list{
   list-style: none;
-  display: inline-block;
+  margin-top: 0;
+  margin-bottom: 0;
   margin-left: 40px;
   padding: 0;
+  transition: .2s linear;
+}
+
+@media (max-width: 660px) {
+  .menu__list {
+    display: none;
+  }
+
+  .menu__mobile-checkbox:checked ~ .menu__list {
+    display: block;
+    width: 100%;
+    padding: 25px 0;
+    margin-left: 0;
+    text-align: center;
+  }
 }

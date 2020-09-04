@@ -1,0 +1,43 @@
+@media (max-width: 660px) {
+  .menu__mobile-icon {
+    width: 41px;
+    height: 3px;
+    display: block;
+    position: relative;
+    background: #000;
+    transition: 0.4s;
+  }
+
+  .menu__mobile-icon::after, .menu__mobile-icon::before {
+    content: "";
+    display: block;
+    position: absolute;
+    background: #000;
+    width: 100%;
+    height: 3px;
+    transition: 0.4s;
+  }
+
+  .menu__mobile-icon::after {
+    top: 8px;
+  }
+
+  .menu__mobile-icon::before {
+    top: -8px;
+  }
+
+  .menu__mobile-checkbox:checked ~ .menu__mobile-button .menu__mobile-icon {
+    background: transparent;
+  }
+  .menu__mobile-checkbox:checked ~ .menu__mobile-button .menu__mobile-icon::before, .menu__mobile-checkbox:checked ~ .menu__mobile-button .menu__mobile-icon::after {
+    top: 0;
+  }
+  .menu__mobile-checkbox:checked ~ .menu__mobile-button .menu__mobile-icon::after {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+  .menu__mobile-checkbox:checked ~ .menu__mobile-button .menu__mobile-icon::before {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+}

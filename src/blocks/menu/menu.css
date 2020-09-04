@@ -3,13 +3,12 @@
 @import url(./__link/_is-active/menu__link_is-active.css);
 @import url(./__list/menu__list.css);
 @import url(./__logo/menu__logo.css);
+@import url(./__mobile-button/menu__mobile-button.css);
+@import url(./__mobile-checkbox/menu__mobile-checkbox.css);
+@import url(./__mobile-icon/menu__mobile-icon.css);
+@import url(./__wrapper/menu__wrapper.css);
 
 .menu {
   min-height: 58px;
   border-bottom: 1px solid rgba(0, 0, 0, .1);
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  align-items: center;
 }

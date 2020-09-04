@@ -3,3 +3,9 @@
   margin-right: 22px;
   margin-bottom: 22px;
 }
+
+@media (max-width: 640px) {
+  .portfolio__image {
+    margin-right: 0;
+  }
+}

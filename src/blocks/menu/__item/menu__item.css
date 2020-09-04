@@ -2,3 +2,11 @@
   display: inline-block;
   margin-right: 40px;
 }
+
+@media (max-width: 660px) {
+  .menu__mobile-checkbox:checked ~ .menu__list .menu__item {
+    display: block;
+    margin-right: 0;
+    margin-bottom: 14px;
+  }
+}

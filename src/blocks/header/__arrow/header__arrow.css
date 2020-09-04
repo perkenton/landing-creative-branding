@@ -7,18 +7,6 @@
   }
 }
 
-/*.header__square-pic {*/
-/*  position: absolute;*/
-/*  height: 568px;*/
-/*  width: 568px;*/
-/*  background-color: #2F80ED;*/
-/*  top: 64px;*/
-/*  right: 0;*/
-/*  transform: rotate(-15deg);*/
-/*  animation: rotation 20s linear infinite;*/
-/*  z-index: 0;*/
-/*}*/
-
 .header__arrow {
   font-family: 'Lato', Arial, Helvetica, sans-serif;
   font-style: normal;
@@ -34,5 +22,11 @@
 @media (min-width: 1920px) {
   .header__arrow {
     margin-top: 64px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .header__arrow {
+    margin-top: 24px;
   }
 }

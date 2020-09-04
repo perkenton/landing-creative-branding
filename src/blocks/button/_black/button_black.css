@@ -2,8 +2,6 @@
   color: #000;
   border: 1px solid #000;
   display: inline-block;
-  margin-left: 50%;
-  transform: translate(-50%, 0);
   transition: .2s linear;
 }
 
@@ -12,7 +10,13 @@
   background-color: rgba(0, 0, 0, .1);
 }
 
+.button_black:focus {
+  outline: none;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, .4);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
 .button_black:active {
-  box-shadow: 0px 0px 4px rgba(0, 0, 0, .4);
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, .4);
   background-color: rgba(0, 0, 0, .1);
 }

@@ -17,6 +17,12 @@
 @import url(./__wrapper/contact__wrapper.css);
 
 .contact {
-  padding-top: 183px;
-  padding-bottom: 100px;
+  padding-top: 176px;
+  padding-bottom: 98px;
+}
+
+@media (max-width: 799px) {
+  .contact {
+    padding-top: 100px;
+  }
 }

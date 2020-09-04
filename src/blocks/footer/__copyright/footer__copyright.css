@@ -1,6 +1,8 @@
 .footer__copyright {
   font-family: 'SourceSansPro', Arial, Helvetica, sans-serif;
   font-style: normal;
+  font-size: 14px;
   font-weight: 300;
   color: #a4a4a4;
+  margin: 0;
 }

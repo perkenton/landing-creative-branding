@@ -1,0 +1,17 @@
+.menu__wrapper {
+  max-width: 900px;
+  min-height: 58px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+}
+
+@media (max-width: 1000px) {
+  .menu__wrapper {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}

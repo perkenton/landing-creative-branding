@@ -24,19 +24,20 @@
     </header>
 
     <nav class="menu" id="menu">
+      <div class="menu__wrapper">
+        <a href="#" class="menu__logo">Onepage</a>
 
-      <a href="#" class="menu__logo">Onepage</a>
+        <input type="checkbox" id="checkbox" class="menu__mobile-checkbox">
+        <label for="checkbox" class="menu__mobile-button"><div class="menu__mobile-icon"></div></label>
 
-      <ul class="menu__list">
-        <li class="menu__item"><a href="#" class="menu__link menu__link_is-active">Home</a></li>
-        <li class="menu__item"><a href="#about" class="menu__link">About us</a></li>
-        <li class="menu__item"><a href="#portfolio" class="menu__link">Portfolio</a></li>
-        <li class="menu__item"><a href="#contact" class="menu__link">Contact</a></li>
-      </ul>
-        
+        <ul class="menu__list">
+          <li class="menu__item"><a href="#" class="menu__link menu__link_is-active">Home</a></li>
+          <li class="menu__item"><a href="#about" class="menu__link">About us</a></li>
+          <li class="menu__item"><a href="#portfolio" class="menu__link">Portfolio</a></li>
+          <li class="menu__item"><a href="#contact" class="menu__link">Contact</a></li>
+        </ul>
+      </div>
     </nav>
-
-    <div style="left: calc(50% - 1px); width: 1px; height: 100px; background-color: #000; position: fixed; top: 50px; z-index: 100;"></div>
 
     <section class="about" id="about">
 
@@ -80,7 +81,7 @@
         <img src="./images/portfolio/10.png" alt="Logo" class="portfolio__image">
         <img src="./images/portfolio/11.png" alt="Picture" class="portfolio__image">
       </div>
-      <a href="#1" id="1" class="button button_black">Read more</a>
+      <a href="" class="button button_black">Read&nbsp;more</a>
     </section>
 
     <section class="partners" id="partners">

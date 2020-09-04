@@ -3,9 +3,10 @@
   font-style: normal;
   font-weight: 400;
   font-size: 26px;
-  letter-spacing: 2px;
+  letter-spacing: 4px;
   text-align: center;
   text-transform: uppercase;
   color: #000;
-
+  margin-top: 53px;
+  margin-bottom: 26px;
 }

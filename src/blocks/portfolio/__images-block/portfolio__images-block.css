@@ -4,7 +4,20 @@
   flex-wrap: wrap;
   align-content: center;
   max-height: 1015px;
-  padding-top: 143px;
+  padding-top: 111px;
   padding-bottom: 140px;
   margin-left: 22px;
+}
+
+@media (max-width: 1000px) {
+  .portfolio__images-block {
+    max-height: 1550px;
+  }
+}
+
+@media (max-width: 640px) {
+  .portfolio__images-block {
+    max-height: none;
+    margin-left: 0;
+  }
 }
