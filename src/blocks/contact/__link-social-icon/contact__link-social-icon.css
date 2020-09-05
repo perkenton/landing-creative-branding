@@ -8,3 +8,10 @@
 .contact__link-social-icon:hover {
   transform: translateY(-2px);
 }
+
+.contact__link-social-icon:focus {
+  /*box-sizing: border-box;*/
+  outline: 1px dotted #ada074;
+  /*border: 1px dotted #ada074;*/
+  box-shadow: 0 0 3px #ada074;
+}

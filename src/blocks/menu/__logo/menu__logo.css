@@ -9,3 +9,9 @@
 .menu__logo:hover {
   color: #ada074;
 }
+
+.menu__logo:focus {
+  outline: none;
+  border: 1px dotted #ada074;
+  box-shadow: 0 0 3px #ada074;
+}

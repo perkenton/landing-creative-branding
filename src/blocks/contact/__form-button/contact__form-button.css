@@ -12,17 +12,14 @@
   margin-left: 348px;
   padding: 0;
 }
-/*TODO: button focuses*/
+
 .contact__form-button:hover {
-
-}
-
-.contact__form-button:active {
-
+  color: #ada074;
 }
 
 .contact__form-button:focus {
-
+  outline: 1px dotted #ada074;
+  box-shadow: 0 0 3px #ada074;
 }
 
 @media (max-width: 400px) {

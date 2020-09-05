@@ -5,3 +5,9 @@
 .contact__link:hover {
   color: #ada074;
 }
+
+.contact__link:focus {
+  outline: none;
+  border: 1px dotted #ada074;
+  box-shadow: 0 0 3px #ada074;
+}
