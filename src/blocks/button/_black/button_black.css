@@ -2,6 +2,7 @@
   color: #000;
   border: 1px solid #000;
   display: inline-block;
+  cursor: pointer;
   transition: .2s linear;
 }
 
