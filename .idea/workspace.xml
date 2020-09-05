@@ -10,18 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c60b35e8-4a0e-4047-85a3-4bcb5bf679ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.cache/02/6e985626c638639421482ba3baf973.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/02/6e985626c638639421482ba3baf973.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/2c/418908841a5f949e6c8f8d25d77ad2.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/2c/418908841a5f949e6c8f8d25d77ad2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/33/37b2c5ae559310c95c6af4e5a51487.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/33/37b2c5ae559310c95c6af4e5a51487.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/6c/187a87e01d28ac939bf9668f6ef14b.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/6c/187a87e01d28ac939bf9668f6ef14b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/b6/e3d06def546b0c6c34d5d40f260cca.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/b6/e3d06def546b0c6c34d5d40f260cca.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/button/_black/button_black.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/button/_black/button_black.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/button/_white/button_white.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/button/_white/button_white.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/title/_size/_white/title_size_l_white.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/title/_size/_white/title_size_l_white.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="c60b35e8-4a0e-4047-85a3-4bcb5bf679ea" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +55,7 @@
       <workItem from="1598742328976" duration="103000" />
       <workItem from="1598743606992" duration="30123000" />
       <workItem from="1598972678766" duration="6687000" />
-      <workItem from="1598982887291" duration="43562000" />
+      <workItem from="1598982887291" duration="43925000" />
     </task>
     <servers />
   </component>
