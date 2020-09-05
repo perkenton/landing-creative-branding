@@ -13,3 +13,13 @@
   width: 105px;
   z-index: 1;
 }
+
+@media (max-width: 460px) {
+  .title_size_l_white {
+    padding: 0 15px;
+  }
+
+  .title_size_l_white:after {
+    top: 120px;
+  }
+}
