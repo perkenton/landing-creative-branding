@@ -1,16 +1,35 @@
 {
-  "name": "html-page",
+  "name": "landing-creative-branding",
   "version": "1.0.0",
   "description": "Simple landing",
-  "main": "index.js",
+  "main": "src/index.html",
+  "browserslist": [
+    "> 0.2%",
+    "not dead"
+  ],
   "scripts": {
-    "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "dev": "parcel src/index.html --no-source-maps --open",
+    "build": "rm -rf dist/* && parcel build src/index.html --no-source-maps --no-cache --public-url ./",
+    "deploy": "gh-pages -d dist"
+  },
+  "parcelCleanPaths": [
+    "dist",
+    ".cache"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perkenton/landing-creative-branding.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perkenton/landing-creative-branding/issues"
+  },
+  "homepage": "https://github.com/perkenton/landing-creative-branding#readme",
   "devDependencies": {
-    "cssnano": "^4.1.10"
+    "cssnano": "4.1.10",
+    "parcel-plugin-clean-easy": "^1.0.2",
+    "parcel-plugin-nuke-dist": "1.0.1"
   }
 }
