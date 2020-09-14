@@ -10,3 +10,9 @@
     margin-bottom: 130px;
   }
 }
+
+@media (max-width: 458px) {
+  .header__logo {
+    margin-top: 16px;
+  }
+}
