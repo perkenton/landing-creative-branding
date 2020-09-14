@@ -5,17 +5,27 @@
 .header {
   width: 100%;
   min-height: 100vh;
-  background-image: url(../../images/background/start-page.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center center;
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
   align-items: center;
   justify-content: center;
   position: relative;
+}
+
+.header::before {
+  content: '';
+  background-image: url(../../images/background/start-page.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
 }
 
 .header::after {
