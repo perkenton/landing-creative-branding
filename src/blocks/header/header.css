@@ -17,9 +17,8 @@
   content: '';
   background-image: url(../../images/background/start-page.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto 100%;
   background-position: center center;
-  background-attachment: fixed;
   position: absolute;
   left: 0;
   right: 0;
